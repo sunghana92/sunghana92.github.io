@@ -1,196 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bee starter]]></title><description><![CDATA[Blog posted about ...]]></description><link>https://gatsby-starter-bee.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Jan 2022 04:35:56 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Financial Contributors on Open Collective Greenkeeper badge
-Total alerts
-contributions welcome
-Netlify Status 한국어🇰🇷 screenshot In this…]]></description><link>https://gatsby-starter-bee.netlify.com/category1/README/</link><guid isPermaLink="false">https://gatsby-starter-bee.netlify.com/category1/README/</guid><content:encoded>&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;./assets/gatsby-starter-bee.png&quot; width=&quot;360px&quot; /&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/all/badge.svg?label=financial+contributors&quot; alt=&quot;Financial Contributors on Open Collective&quot;&gt;&lt;/a&gt; &lt;a href=&quot;https://greenkeeper.io/&quot;&gt;&lt;img src=&quot;https://badges.greenkeeper.io/JaeYeopHan/gatsby-starter-bee.svg&quot; alt=&quot;Greenkeeper badge&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://lgtm.com/projects/g/JaeYeopHan/gatsby-starter-bee/alerts/&quot;&gt;&lt;img src=&quot;https://img.shields.io/lgtm/alerts/g/JaeYeopHan/gatsby-starter-bee.svg?logo=lgtm&amp;#x26;logoWidth=18&quot; alt=&quot;Total alerts&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://github.com/dwyl/esta/issues&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&quot; alt=&quot;contributions welcome&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://app.netlify.com/sites/gatsby-starter-bee/deploys&quot;&gt;&lt;img src=&quot;https://api.netlify.com/api/v1/badges/4b1962ce-6206-4d8f-9516-63be92294198/deploy-status&quot; alt=&quot;Netlify Status&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;a href=&quot;https://twitter.com/JbeeLjyhanll&quot;&gt;
-&lt;img alt=&quot;Twitter: JbeeLjyhanll&quot; src=&quot;https://img.shields.io/twitter/follow/JbeeLjyhanll.svg?style=social&quot; target=&quot;_blank&quot;&gt;
-&lt;/a&gt;
-&lt;p&gt;&lt;a href=&quot;./README.ko.md&quot;&gt;한국어🇰🇷&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;./assets/screenshot.png&quot; alt=&quot;screenshot&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In this template…&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bee starter]]></title><description><![CDATA[Blog posted about ...]]></description><link>https://gatsby-starter-bee.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 Jan 2022 09:55:00 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[빌드 관리 도구란? 프로젝트에서 작성한 JAVA 코드와 프로젝트 내에 필요한 각종 xml, properties, jar 파일들을 JVM 이나 WAS…]]></description><link>https://gatsby-starter-bee.netlify.com/gradle/study_gradle/</link><guid isPermaLink="false">https://gatsby-starter-bee.netlify.com/gradle/study_gradle/</guid><content:encoded>&lt;p&gt;빌드 관리 도구란?&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;💄 Code highlight with Fira Code font&lt;/li&gt;
-&lt;li&gt;🧙 CLI Tool&lt;/li&gt;
-&lt;li&gt;😄 Emoji (emojione)&lt;/li&gt;
-&lt;li&gt;🗣 Social share feature (Twitter, Facebook)&lt;/li&gt;
-&lt;li&gt;💬 Comment feature (disqus, utterances)&lt;/li&gt;
-&lt;li&gt;☕ ‘Buy me a coffee’ service&lt;/li&gt;
-&lt;li&gt;🤖 GA&lt;/li&gt;
-&lt;li&gt;⭐ Enhance UX&lt;/li&gt;
-&lt;li&gt;⚙ Configurable&lt;/li&gt;
+&lt;li&gt;프로젝트에서 작성한 JAVA 코드와 프로젝트 내에 필요한 각종 xml, properties, jar 파일들을 JVM 이나 WAS가 인식할 수 있도록 패키징 해주는 빌드과정을 자동화 해주는 도구&lt;/li&gt;
+&lt;li&gt;애플리케이션을 개발하면서, 일반적으로 개발에 필요한 다양한 외부 라이브러리들을 다운로드해야한다. 이 때 각 라이브러리들을 번거롭게 모두 다운받을 필요없이, 빌드 도구 설정 파일에 필요한 라이브러리 종류와 버전, 종속성 정보를 명시하여 필요한 라이브러리들을 설정파일을 통해 자동으로 다운로드 해주고 이를 간편히 관리해주는 도구이다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.gatsbyjs.org/starters/JaeYeopHan/gatsby-starter-bee/&quot;&gt;About this Template&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;demo&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#demo&quot; aria-label=&quot;demo permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Demo&lt;/h2&gt;
+&lt;p&gt;Maven?&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://gatsby-starter-bee.netlify.com/&quot;&gt;Default Theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JAVA용 프로젝트 관리도구&lt;/li&gt;
+&lt;li&gt;빌드중인 프로젝트, 빌드 순서, 다양한 외부 라이브러리 종속성 관계를 pom.xml 파일에 명시한다.&lt;/li&gt;
+&lt;li&gt;외부 저장소에서 필요한 라이브러리와 플러그인을 다운로드 한 다음, 로컬시스템의 캐시에 모두 정리한다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;details&gt;
-  &lt;summary&gt;Use case&lt;/summary&gt;
-  &lt;p&gt;
-    &lt;img src=&quot;./assets/demos.png&quot; alt=&quot;demo-image&quot;&gt;
-    &lt;ul&gt;
-      &lt;li&gt;JBEE.io: https://jbee.io&lt;/li&gt;
-      &lt;li&gt;Rinae&apos;s devlog: https://rinae.dev/&lt;/li&gt;
-      &lt;li&gt;Seungdols Company: https://seungdols.dev/&lt;/li&gt;
-      &lt;li&gt;Kooku&apos;s log: https://kooku.netlify.com/&lt;/li&gt;
-      &lt;li&gt;SOSOLOG: https://so-so.dev/&lt;/li&gt;
-      &lt;li&gt;delivan.dev: https://delivan.dev/&lt;/li&gt;
-      &lt;li&gt;Jungin&apos;s blog: https://jungin.netlify.com/&lt;/li&gt;
-      &lt;li&gt;Zero&apos;s blog: https://awesomezero.com/&lt;/li&gt;
-      &lt;li&gt;Jonathan&apos;s blog: https://www.learningsomethingnew.com/&lt;/li&gt;
-      &lt;li&gt;@deveely-log: https://deveely-log.netlify.com/&lt;/li&gt;
-      &lt;li&gt;Hanul&apos;s blog: https://hanul-dev.netlify.com/&lt;/li&gt;
-      &lt;li&gt;Hoons Blog: https://hoons-up.netlify.com/&lt;/li&gt;
-      &lt;li&gt;JWN.cool: https://jwn.cool&lt;/li&gt;
-      &lt;li&gt;ugaemi&apos;s dev note: https://ugaemi.github.io&lt;/li&gt;
-      &lt;li&gt;Minsu&apos;s Dev Log: https://alstn2468.github.io/&lt;/li&gt;
-      &lt;li&gt;Yungi&apos;s Dev Blog: https://yungis.dev/&lt;/li&gt;
-      &lt;li&gt;&lt; Taenylog /&gt;: https://taeny.dev/&lt;/li&gt;
-      &lt;li&gt;brouk&apos;s devlog: https://brouk-devlog.netlify.com/&lt;/li&gt;
-      &lt;li&gt;CoodingPenguin&apos;s Repository: https://cooding-penguin.netlify.com/&lt;/li&gt;
-      &lt;li&gt;Garima&apos;s Tech Blog: https://garimasingh.netlify.app/ &lt;/li&gt;
-      &lt;li&gt;DevRappers.dev: https://devrappers.dev/&lt;/li&gt;
-      &lt;li&gt;Let&apos;s doodle: https://duduling-blog.netlify.app/&lt;/li&gt;
-      &lt;li&gt;noopy.dev: https://noopy.dev/&lt;/li&gt;
-      &lt;li&gt;Hong_Devlog: https://hong-dev.github.io/&lt;/li&gt;
-      &lt;li&gt;samsara-ku&apos;s devlog: https://samsara-ku.dev/&lt;/li&gt;
-      &lt;li&gt;muse.kim: https://muse.kim/&lt;/li&gt;
-      &lt;li&gt;cereme.dev: https://cereme.dev&lt;/li&gt;
-      &lt;li&gt;taekki.dev: https://taekki.dev&lt;/li&gt;
-      &lt;li&gt;kkh913&apos;s Developer Blog: https://kkh913.github.io&lt;/li&gt;
-      &lt;li&gt;Merrily, Code: https://merrily-code.netlify.app/&lt;/li&gt;
-      &lt;li&gt;jeeneee&apos;s devlog: https://jeeneee.dev&lt;/li&gt;
-      &lt;li&gt;Noah&apos;s devlog: https://noah0316.github.io/&lt;/li&gt;
-      &lt;li&gt;bobs log: https://undefine.me&lt;/li&gt;
-      &lt;li&gt;irosyadi: https://irosyadi.netlify.app&lt;/li&gt;
-      &lt;li&gt;yujolog: https://yujo11.github.io/&lt;/li&gt;
-      &lt;li&gt;hexdrinker&apos;s devlog: https://hexdrinker.dev&lt;/li&gt;
-      &lt;li&gt;gparkki.io: https://gparkkii.github.io/&lt;/li&gt;
-      &lt;li&gt;BO.LOG: https://b5bo.github.io&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/p&gt;
-&lt;/details&gt;
-&lt;blockquote&gt;
-&lt;p&gt;If you’re using this template, Please Pull Request for &lt;code class=&quot;language-text&quot;&gt;Use case&lt;/code&gt;!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;-quick-start&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-quick-start&quot; aria-label=&quot; quick start permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;😎 Quick Start&lt;/h2&gt;
-&lt;h3 id=&quot;1-create-a-gatsby-site&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-create-a-gatsby-site&quot; aria-label=&quot;1 create a gatsby site permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Create a Gatsby site&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;# create a new Gatsby site using the blog starter
-npx gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;If you are not using &lt;code class=&quot;language-text&quot;&gt;npx&lt;/code&gt;, following &lt;a href=&quot;https://www.gatsbyjs.org/docs/quick-start&quot;&gt;Gatsby Getting Started&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;npm install -g gatsby-cli
-gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3 id=&quot;2-start-developing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-start-developing&quot; aria-label=&quot;2 start developing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Start developing&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;cd my-blog-starter/
-npm start
-# open localhost:8000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3 id=&quot;3-add-your-content&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-add-your-content&quot; aria-label=&quot;3 add your content permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Add your content&lt;/h3&gt;
-&lt;p&gt;You can write…&lt;/p&gt;
+&lt;p&gt;Gradle?&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;contents to blog in &lt;code class=&quot;language-text&quot;&gt;content/blog&lt;/code&gt; directory.&lt;/li&gt;
-&lt;li&gt;resume &lt;code class=&quot;language-text&quot;&gt;content/__about&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;프로젝트 빌드 관리 도구&lt;/li&gt;
+&lt;li&gt;Groovy언어를 사용한다. (xml 파일을 사용하는 Maven보다 코드가 훨씬 간결하다.)&lt;/li&gt;
+&lt;li&gt;Gradle은 프로젝트의 어느 부분이 업데이트되었는지 알기 때문에 빌드에 점진적으로 추가할 수 있다.&lt;/li&gt;
+&lt;li&gt;업데이트가 이미 반영된 빌드의 부분은 더 이상 재실행되지 않는다.(빌드시간이 단축될 수 있다.)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;With markdown syntax and some meta data&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4 id=&quot;support-script-for-creating-new-post&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#support-script-for-creating-new-post&quot; aria-label=&quot;support script for creating new post permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Support script for creating new post&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;assets/cli-tool-example.gif&quot; alt=&quot;cli-tool-example&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;npm run post&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;👉 Use &lt;strong&gt;gatsby-post-gen&lt;/strong&gt; (&lt;a href=&quot;https://github.com/JaeYeopHan/gatsby-post-gen&quot;&gt;https://github.com/JaeYeopHan/gatsby-post-gen&lt;/a&gt;)&lt;/p&gt;
-&lt;h3 id=&quot;4-fix-meta-data&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#4-fix-meta-data&quot; aria-label=&quot;4 fix meta data permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Fix meta data&lt;/h3&gt;
-&lt;p&gt;You can fix meta data of blog in &lt;code class=&quot;language-text&quot;&gt;/gatsby-meta-config.js&lt;/code&gt; file.&lt;/p&gt;
-&lt;h3 id=&quot;5-publish-with-netlify&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#5-publish-with-netlify&quot; aria-label=&quot;5 publish with netlify permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. Publish with &lt;a href=&quot;https://netlify.com&quot;&gt;netlify&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://app.netlify.com/start/deploy?repository=https://github.com/JaeYeopHab/gatsby-starter-bee&quot;&gt;&lt;img src=&quot;https://www.netlify.com/img/deploy/button.svg&quot; alt=&quot;Deploy to Netlify&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;💡 if you want to deploy github pages, add following script to package.json&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token property&quot;&gt;&quot;scripts&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token property&quot;&gt;&quot;deploy&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;gatsby build &amp;amp;&amp;amp; gh-pages -d public -b master -r &apos;git@github.com:${your github id}/${github page name}.github.io.git&apos;&quot;&lt;/span&gt;
+&lt;p&gt;Maven vs Gradle&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gradle은 작업 의존성 그래프를 기반으로 하는 반면 Maven은 고정적이고 선형적인 단계의 모델을 기반으로 한다.&lt;/li&gt;
+&lt;li&gt;Gradle은 어떤 task가 업데이트 되었고 안되었는지를 체크하기 때문에 점진적인 빌드를 허용한다. 이미 업데이트된 테스크에 대해서는 작업이 실행되지 않으므로 빌드 시간이 훨씬 단축된다. -&gt; 빌드 설정 규모가 커질수록 Maven과 빌드시간 차이가 커진다.&lt;/li&gt;
+&lt;li&gt;Gradle은 병렬에 안전한 캐시를 허용한다. -&gt; 2개 이상의 프로젝트에서 같은 캐시를 사용할 경우 서로 overwirte되지 않도록 checksum기반(중복검사)의 캐시를 사용하고 캐시를     repository와 동기화 시킬 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gradle 기초 사용법&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;repositories &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+​	&lt;span class=&quot;token function&quot;&gt;mavenCentral&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2 id=&quot;-customize&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-customize&quot; aria-label=&quot; customize permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🧐 Customize&lt;/h2&gt;
-&lt;h3 id=&quot;-gatsby-config&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-gatsby-config&quot; aria-label=&quot; gatsby config permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;⚙ Gatsby config&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;/root
-├── gatsby-browser.js // font, polyfill, onClientRender ...
-├── gatsby-config.js // Gatsby config
-├── gatsby-meta-config.js // Template meta config
-└── gatsby-node.js // Gatsby Node config&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3 id=&quot;-structure&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-structure&quot; aria-label=&quot; structure permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;⛑ Structure&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;src
-├── components // Just component with styling
-├── layout // home, post layout
-├── pages // routing except post: /(home), /about
-├── styles
-│   ├── code.scss
-│   ├── dark-theme.scss
-│   ├── light-theme.scss
-│   └── variables.scss
-└── templates
-    ├── blog-post.js
-    └── home.js&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3 id=&quot;-style&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-style&quot; aria-label=&quot; style permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎨 Style&lt;/h3&gt;
-&lt;p&gt;You can customize color in &lt;code class=&quot;language-text&quot;&gt;src/styles&lt;/code&gt; directory.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;src/styles
-├── code.scss
-├── dark-theme.scss
-├── light-theme.scss
-└── variables.scss&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3 id=&quot;-tips-you-can-change&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-tips-you-can-change&quot; aria-label=&quot; tips you can change permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🍭 Tips (You can change…)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Profile image! (replace file in &lt;code class=&quot;language-text&quot;&gt;/content/assets/profile.png&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Favicon image! (replace file in &lt;code class=&quot;language-text&quot;&gt;/content/assets/felog.png&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Header gradient! ($theme-gradient &lt;code class=&quot;language-text&quot;&gt;/styles/variables.scss&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Utterances repository! (replace repository address in &lt;code class=&quot;language-text&quot;&gt;/gatsby-meta-config.js&lt;/code&gt;)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;⚠️ Please check, this guide(&lt;a href=&quot;https://utteranc.es/&quot;&gt;https://utteranc.es/&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;-like-it&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-like-it&quot; aria-label=&quot; like it permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;☕ Like it?&lt;/h2&gt;
-&lt;a href=&quot;https://www.buymeacoffee.com/jbee&quot; target=&quot;_blank&quot;&gt;
-  &lt;img src=&quot;https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png&quot; alt=&quot;Buy Me A Coffee&quot; style=&quot;height: auto !important;width: auto !important;&quot;&gt;
-&lt;/a&gt;
-&lt;h2 id=&quot;-if&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-if&quot; aria-label=&quot; if permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🤔 If&lt;/h2&gt;
-&lt;p&gt;If you are currently writing in the Medium, consider migration with &lt;a href=&quot;https://github.com/mathieudutour/medium-to-own-blog&quot;&gt;medium-to-own-blog&lt;/a&gt;!&lt;/p&gt;
-&lt;h2 id=&quot;-bug-reporting&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-bug-reporting&quot; aria-label=&quot; bug reporting permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🐛 Bug reporting&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/JaeYeopHan/gatsby-starter-bee/issues&quot;&gt;Issue&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;-contributing&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#-contributing&quot; aria-label=&quot; contributing permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;🎁 Contributing&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;./CONTRIBUTING.md&quot;&gt;Contributing guide&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;contributors&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#contributors&quot; aria-label=&quot;contributors permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Contributors&lt;/h2&gt;
-&lt;h3 id=&quot;code-contributors&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#code-contributors&quot; aria-label=&quot;code contributors permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Code Contributors&lt;/h3&gt;
-&lt;p&gt;This project exists thanks to all the people who contribute. [&lt;a href=&quot;CONTRIBUTING.md&quot;&gt;Contribute&lt;/a&gt;].&lt;/p&gt;
-&lt;a href=&quot;https://github.com/JaeYeopHan/gatsby-starter-bee/graphs/contributors&quot;&gt;
-&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/contributors.svg?width=890&amp;amp;button=false&quot;&gt;
-&lt;/a&gt;
-&lt;h3 id=&quot;financial-contributors&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#financial-contributors&quot; aria-label=&quot;financial contributors permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Financial Contributors&lt;/h3&gt;
-&lt;p&gt;Become a financial contributor and help us sustain our community. [&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/contribute&quot;&gt;Contribute&lt;/a&gt;]&lt;/p&gt;
-&lt;h4 id=&quot;individuals&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#individuals&quot; aria-label=&quot;individuals permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Individuals&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/individuals.svg?width=890&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&quot;organizations&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#organizations&quot; aria-label=&quot;organizations permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Organizations&lt;/h4&gt;
-&lt;p&gt;Support this project with your organization. Your logo will show up here with a link to your website. [&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/contribute&quot;&gt;Contribute&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/0/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/0/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/1/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/1/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/2/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/2/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/3/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/3/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/4/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/4/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/5/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/5/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/6/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/6/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/7/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/7/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/8/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/8/avatar.svg&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://opencollective.com/gatsby-starter-bee/organization/9/website&quot;&gt;&lt;img src=&quot;https://opencollective.com/gatsby-starter-bee/organization/9/avatar.svg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;license&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#license&quot; aria-label=&quot;license permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;LICENSE&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;./LICENSE&quot;&gt;MIT&lt;/a&gt;&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;
-&lt;p&gt;&lt;sub&gt;&lt;sup&gt;Project by &lt;a href=&quot;https://github.com/JaeYeopHan&quot;&gt;@Jbee&lt;/a&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;small&gt;✌&lt;/small&gt;&lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quick Start]]></title><description><![CDATA[Getting Started 😎 1. Create a Gatsby site. If you are not using , following Gatsby Getting Started 2. Start developing. 3. Add your content…]]></description><link>https://gatsby-starter-bee.netlify.com/development/quick_start/</link><guid isPermaLink="false">https://gatsby-starter-bee.netlify.com/development/quick_start/</guid><pubDate>Sun, 05 Jul 2020 17:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;getting-started-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#getting-started-&quot; aria-label=&quot;getting started  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Getting Started 😎&lt;/h1&gt;
+&lt;p&gt;해당 레포지토리에서 오픈소스 종속성을 다운로드하고 사용할 수 있다.&lt;/p&gt;
+&lt;p&gt;Spring 에선 주로 mavenCentral() 이 사용된다. Maven Central - 오픈 라이브러리를 호스팅하는 인기있는 저장소&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:case-for-maven-local&quot;&gt;https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:case-for-maven-local&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;groovy&quot;&gt;&lt;pre class=&quot;language-groovy&quot;&gt;&lt;code class=&quot;language-groovy&quot;&gt;plugins &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+	id &lt;span class=&quot;token string&quot;&gt;&apos;java&apos;&lt;/span&gt;
+	id &lt;span class=&quot;token string&quot;&gt;&apos;org.springframework.boot&apos;&lt;/span&gt; version &lt;span class=&quot;token string&quot;&gt;&apos;2.1.7.RELEASE&apos;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;일반적인 실행을 위한 jar파일&lt;/p&gt;
+&lt;p&gt;Id를 사용해서 특정 라이브러리를 다운받는다.&lt;/p&gt;
+&lt;p&gt;version 을 사용해서 세밀하게 컨트롤 가능하다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.gradle.org/current/userguide/plugins.html&quot;&gt;https://docs.gradle.org/current/userguide/plugins.html&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;groovy&quot;&gt;&lt;pre class=&quot;language-groovy&quot;&gt;&lt;code class=&quot;language-groovy&quot;&gt;dependency &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+	id &lt;span class=&quot;token string&quot;&gt;&apos;org.springframework.boot&apos;&lt;/span&gt; version &lt;span class=&quot;token string&quot;&gt;&apos;2.1.7.RELEASE&apos;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;컴파일 혹은 런타임의 특정 상황에 classPath에서 사용할 수 있도록 프로젝트에서 요구하는 jar파일&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Quick Start]]></title><description><![CDATA[Getting Started 😎 1. Create a Gatsby site. If you are not using , following Gatsby Getting Started 2. Start developing. 3. Add your content…]]></description><link>https://gatsby-starter-bee.netlify.com/development/quick_start/</link><guid isPermaLink="false">https://gatsby-starter-bee.netlify.com/development/quick_start/</guid><pubDate>Sun, 05 Jul 2020 17:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;getting-started-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#getting-started-&quot; aria-label=&quot;getting started  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Getting Started 😎&lt;/h1&gt;
 &lt;h2 id=&quot;1-create-a-gatsby-site&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-create-a-gatsby-site&quot; aria-label=&quot;1 create a gatsby site permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Create a Gatsby site.&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;# create a new Gatsby site using the blog starter
 $ npx gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
